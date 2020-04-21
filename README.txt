@@ -15,7 +15,7 @@
 # Run the code on terminal:
   -> python main.py
   
-# The minimum value is listed (answer).
+## The minimum value is listed (answer).
   
  
  
